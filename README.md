@@ -1,5 +1,7 @@
 # LittleLemon
 
+database = Postgres
+
 urls of project:
 
     for booking api:
